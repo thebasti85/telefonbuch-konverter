@@ -1,0 +1,7 @@
+{
+  "name": "telefonbuch-konverter",
+  "version": "1.0.0",
+  "description": "CSV zu XML Telefonbuch Konverter für Cloudflare Pages",
+  "scripts": {},
+  "dependencies": {}
+}
